@@ -178,3 +178,40 @@ h4{
     color: white;
     font-weight: 700;
 }
+.menu{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.last-color{
+    color: crimson;
+}
+.final-part{
+    display: flex;
+}
+.task{
+    padding-right: 30%;
+    padding-top: 4%;
+}
+.task h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.task p{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.last-btn{
+    background-image: linear-gradient(crimson,tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.task-img{
+    width: 90%;
+    padding-left: 15%;
+}
