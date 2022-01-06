@@ -215,3 +215,17 @@ h4{
     width: 90%;
     padding-left: 15%;
 }
+.foot{
+    background-color: #00041a;
+    padding:20px;
+}
+.last-step{
+    color:#ffffff;
+    text-align: center;
+}
+.last-step h1{
+    color:#ffffff;
+}
+.last-step span{
+    color:#da3548;
+}
